@@ -2,5 +2,5 @@
 
 ![](./Exports/Fonts.png)
 
-![](./Exports/Index - Not signed in.png)
+![](./Exports/Index%20-%20Not%20signed%20in.png)
 

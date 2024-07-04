@@ -4,5 +4,7 @@
 
 ![](./Exports/Index%20-%20Not%20signed%20in.png)
 
+![](./Exports/Index%20-%20Signed%20In.png)
+
 ![](./Exports/Sign%20Up.png)
 

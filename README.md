@@ -2,6 +2,8 @@
 
 ![](./Exports/Fonts.png)
 
+![](./Exports/Index%20-%20Not%20signed%20in%20–%20Forgot%20Password%20–%20Success.png)
+
 ![](./Exports/Index%20-%20Not%20signed%20in%20–%20Forgot%20Password.png)
 
 ![](./Exports/Index%20-%20Not%20signed%20in.png)

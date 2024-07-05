@@ -12,5 +12,7 @@
 
 ![](./Exports/Index%20-%20Signed%20In.png)
 
+![](./Exports/Product%20Page%20&%20Chat.png)
+
 ![](./Exports/Sign%20Up.png)
 

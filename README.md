@@ -12,7 +12,11 @@
 
 ![](./Exports/Index%20-%20Signed%20In.png)
 
+![](./Exports/My%20Resale%20–%20Product%20Edit%20&%20New%20Resale%20–%20Sold.png)
+
 ![](./Exports/My%20Resale%20–%20Product%20Edit%20&%20New%20Resale.png)
+
+![](./Exports/My%20Resale%20–%20Sold%20Details.png)
 
 ![](./Exports/My%20Resale.png)
 

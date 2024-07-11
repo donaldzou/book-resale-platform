@@ -16,11 +16,15 @@
 
 ![](./Exports/Messages%20–%20Seller%20talking%20to%20buyer%20–%20buyer%20requested%20–%20Step%203.png)
 
+![](./Exports/Messages%20–%20Seller%20talking%20to%20buyer%20–%20buyer%20requested%20–%20Step%204.png)
+
 ![](./Exports/Messages%20–%20Seller%20talking%20to%20buyer%20–%20buyer%20requested.png)
 
 ![](./Exports/Messages%20–%20Seller%20talking%20to%20buyer.png)
 
 ![](./Exports/Messages.png)
+
+![](./Exports/My%20Collections.png)
 
 ![](./Exports/My%20Resale%20–%20Product%20Edit%20&%20New%20Resale%20–%20Sold.png)
 
